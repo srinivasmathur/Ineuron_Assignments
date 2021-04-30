@@ -1,4 +1,4 @@
-# Write List comprehensions to produce the following Lists
+# 2 Write List comprehensions to produce the following Lists
 
 # ['x', 'xx', 'xxx', 'xxxx', 'y', 'yy', 'yyy', 'yyyy', 'z', 'zz', 'zzz', 'zzzz']
 letters = 'x y z'.split()
