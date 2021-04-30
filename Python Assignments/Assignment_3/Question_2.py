@@ -5,7 +5,6 @@ letters = 'x y z'.split()
 ans = [letter*i for letter in letters for i in range(1,5) ]
 print("Part 1 : ",ans)
 
-
 # ['x', 'y', 'z', 'xx', 'yy', 'zz', 'xxx', 'yyy', 'zzz', 'xxxx', 'yyyy', 'zzzz']
 letters = 'x y z'.split()
 ans = [letter*i for i in range(1,5) for letter in letters]
